@@ -4,3 +4,4 @@ added ORT changes in VS code.
 demo conflict for ORT change in browse.
 demo conflict for ORT change in local.
 ADDed change for procted branch demo
+added change for ptoected branch demo -post adding ruleset for protected branch.
