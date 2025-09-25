@@ -1,4 +1,4 @@
 Wed Sep 24 16:41:14 IST 2025 :: latest change note3
 Wed Sep 24 16:43:50 IST 2025 :: latest change and commit at a time in note3
 added ORT changes in VS code.
-demo in local VS code conflict.
+demo conflict for ORT change in browse.
